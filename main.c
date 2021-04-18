@@ -1,6 +1,3 @@
-
-/*把帽子套在P1.6和P2.5上*/
-
 #include <msp430.h>
 void main(void)
 {
